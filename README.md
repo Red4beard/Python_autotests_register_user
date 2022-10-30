@@ -1,0 +1,1 @@
+# Python_autotests_register_user
